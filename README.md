@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoib</h1>
-- 👨‍💻 All of my projects are available at [www.shojibruhan.com](www.shojibruhan.com)
-
+- 👨‍💻 All of my projects are available at [www.shojibruhan.com]
 - 📫 How to reach me **si.ruhan09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
