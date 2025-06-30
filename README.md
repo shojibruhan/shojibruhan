@@ -9,7 +9,7 @@
 <a href="https://kaggle.com/siruhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="siruhan" height="30" width="40" /></a>
 <a href="https://fb.com/ruhan.si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruhan.si" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/0dysseus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="0dysseus" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shojib ruhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shojib ruhan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/22xkefYS1W" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shojib ruhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
